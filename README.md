@@ -1,6 +1,8 @@
 # mcp-write-file-server
 用于ai编程工具，如codex，claudecode等，基于python提供文件读写mcp工具
 
+关联项目：https://github.com/hebulin/mcp-read-file-server
+
 Python stdio MCP server for file operations on machines where Node.js writes are
 automatically encrypted by endpoint encryption software.
 
